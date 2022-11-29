@@ -864,7 +864,8 @@ z-index: 1;
 
 @media (max-width: 767.98px) {
   .page-header.page-header_scroll {
-
+position: absolute;
+top: 0;
   }
 }
 
